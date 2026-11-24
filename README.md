@@ -68,7 +68,7 @@ A computer vision project focused on detecting lane markings in road images or v
 
 ## LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Meenakshi_Sundari?theme=dark&extension=activity)](https://leetcode.com/u/Meenakshi_Sundari/)
+<a href="https://leetcode.com/u/Meenakshi_Sundari/"><img src="https://leetcard.jacoblin.cool/Meenakshi_Sundari?theme=dark&extension=activity" alt="LeetCode Stats" width="400"></a>
 
 ## 📊 GitHub Statistics
 
