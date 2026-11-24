@@ -45,3 +45,8 @@ A computer vision project focused on detecting lane markings in road images or v
 ---
 
 *Learning continuously, building consistently, and improving one project at a time.*
+
+## LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Meenakshi_Sundari?theme=dark&extension=activity)](https://leetcode.com/u/Meenakshi_Sundari/)
+
