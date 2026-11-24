@@ -1,48 +1,46 @@
 # Hi, I'm Meenakshi Sundari 👋
 
-### Aspiring Software Engineer | Python · C# · .NET · Java · SQL
+### Aspiring Software Engineer | Python · SQL · C# · Java
 
-I'm an aspiring software engineer who enjoys building applications, solving programming problems, and learning how software systems work.
+I'm an aspiring Software Engineer interested in building applications, solving programming problems, and understanding how software systems work.
 
-I’m currently strengthening my foundations in data structures and algorithms, backend development, databases, and generative AI.
+I'm strengthening my skills in Data Structures and Algorithms, backend development, data analytics, databases, and Generative AI.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, C#, Java, SQL
-- **Backend:** .NET / ASP.NET Core, Spring Boot
-- **Databases:** Microsoft SQL Server
+- **Programming Languages:** Python, SQL, C#, Java
+- **Python Libraries:** NumPy, pandas
+- **Backend Development:** ASP.NET Core, Spring Boot, REST APIs, JWT Authentication
+- **Databases:** Microsoft SQL Server, relational database concepts
+- **Data Warehousing:** Data warehousing fundamentals, ETL concepts, dimensional modelling
 - **Tools:** Git, GitHub, VS Code, Visual Studio
-- **Exploring:** Generative AI, LLM applications, and retrieval-augmented generation (RAG)
+- **Exploring:** Generative AI, LLM applications, Retrieval-Augmented Generation (RAG)
 
 ## 🚀 Selected Projects
 
 ### [FastX – Bus Booking Backend](https://github.com/MEENAKSHI300804/FastXBusBooking-Backend)
-A bus booking backend project built with .NET and SQL Server. The work includes REST APIs, JWT authentication, and a layered application structure.
+A bus booking backend project developed using .NET and SQL Server, featuring REST APIs, JWT authentication, and a layered architecture.
 
 ### [LeetCode Solutions](https://github.com/MEENAKSHI300804/LeetCode-Solutions)
-My solutions to data structures and algorithms problems, primarily using Python. I use this repository to practise problem-solving and improve my coding fundamentals.
-
-### [.NET Assignments & Projects](https://github.com/MEENAKSHI300804/Hex_May_26_DotNet)
-A collection of .NET and C# learning work.
-
-### [SQL Assignments](https://github.com/MEENAKSHI300804/Hexaware_SQL_Assignments)
-SQL practice and assignments using relational database concepts.
+A collection of my Data Structures and Algorithms solutions using Python, covering problem-solving concepts and coding fundamentals.
 
 ### [Car Lane Detection](https://github.com/MEENAKSHI300804/Car_Lane_Detection)
-A computer vision project. See the repository for its implementation and details.
+A computer vision project focused on detecting lane markings in road images or video.
 
 ## 📚 Currently Learning
 
 - Data Structures and Algorithms with Python
-- Backend development with C#/.NET and Java/Spring Boot
-- SQL and database concepts
+- Python for data analysis using NumPy and pandas
+- Backend development and REST API design
+- SQL, database management, and Data Warehousing
+- ETL concepts and dimensional modelling
 - Operating Systems, Computer Networks, and System Design
 - Generative AI and LLM application development
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
 - **GitHub:** [@MEENAKSHI300804](https://github.com/MEENAKSHI300804)
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** [Meenakshi Sundari Natarajan](https://www.linkedin.com/in/meenakshi-sundari-natarajan-82844826a/)
 
 ---
 
