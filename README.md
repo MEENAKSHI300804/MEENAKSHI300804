@@ -1,10 +1,30 @@
 # Hi, I'm Meenakshi Sundari 👋
 
-### Aspiring Software Engineer | Python · SQL · C# · Java
+### Aspiring Software Engineer | Python · SQL 
 
-I'm an aspiring Software Engineer interested in building applications, solving programming problems, and understanding how software systems work.
+I'm passionate about software development, problem-solving, and building practical applications.
 
-I'm strengthening my skills in Data Structures and Algorithms, backend development, data analytics, databases, and Generative AI.
+I'm continuously improving my programming skills through hands-on projects, Data Structures and Algorithms, and exploring emerging technologies.
+
+## 🚀 Featured Projects
+
+1. FastX – Bus Booking Backend
+
+A bus booking backend application developed using .NET and SQL Server, featuring REST APIs, JWT authentication, and layered architecture.
+
+View Backend Repository
+
+2. LeetCode Solutions
+
+My collection of Data Structures and Algorithms solutions implemented using Python, documenting my problem-solving journey.
+
+View Repository
+
+3. Car Lane Detection
+
+A computer vision project focused on detecting lane markings in road images and videos.
+
+View Repository
 
 ## 🛠️ Technologies & Tools
 
